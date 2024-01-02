@@ -1,34 +1,29 @@
-<h2 align="left">Hi 👋! My name is Leonardo and I'm a back-end developer, from Brazil</h2>
+# Leonardo Alves da Costa Larangeira
 
-###
+## Descrição
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por programação, buscando constantemente desafios que impulsionem meu crescimento profissional. Atualmente, meu foco está no desenvolvimento back-end com Clojure.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leolarangeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Experiência Profissional
+- **Desenvolvedor Back-end (Clojure)**
+  - LISP51
+  - Setembro/2023 - Presente
+  - Responsável pelo desenvolvimento e manutenção de soluções back-end utilizando a linguagem Clojure.
 
-###
+## Estudos Atuais
+- **React**
+  - Explorando as possibilidades do React para o desenvolvimento de interfaces modernas e interativas.
+
+- **Python**
+  - Aprofundando conhecimentos em Python para ampliar minhas habilidades de desenvolvimento.
+
+- **Foco em Clojure**
+  - Comprometido com o aprimoramento contínuo em Clojure, visando se tornar um desenvolvedor full-stack no futuro.
+
+## Conhecimentos
+- **Linguagens de Programação:**
+  - Python, Clojure, Java, JavaScript (JS)
+
+- **Frameworks:**
+  - React
 
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="30" alt="clojure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
