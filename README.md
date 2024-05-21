@@ -12,7 +12,10 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por program
 ## Estudos Atuais
 - **React**
   - Explorando as possibilidades do React para o desenvolvimento de interfaces modernas e interativas.
-
+    
+- **Flutter***
+  - Estudando Flutter para criar aplicativos móveis nativos com uma única base de código, focando em desenvolver interfaces de usuário atraentes e de alta performance para Android e iOS.
+    
 - **Python**
   - Aprofundando conhecimentos em Python para ampliar minhas habilidades de desenvolvimento.
 
@@ -21,9 +24,9 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por program
 
 ## Conhecimentos
 - **Linguagens de Programação:**
-  - Python, Clojure, Java, JavaScript (JS)
+  - Python, Clojure, Java, JavaScript (JS), Dart
 
 - **Frameworks:**
-  - React
+  - React, Flutter
 
 
