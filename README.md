@@ -6,9 +6,13 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por program
 ## Experiência Profissional
 - **Desenvolvedor Back-end (Clojure)**
   - LISP51
-  - Setembro/2023 - Presente
+  - Setembro/2023 - Junho/2024
   - Responsável pelo desenvolvimento e manutenção de soluções back-end utilizando a linguagem Clojure.
-
+## Experiência Profissional
+- **Desenvolvedor FullStack (Clojure | Python | Flutter)**
+  - LISP51
+  - Junho/2024 - Novembro/2024
+  - Responsável pelo desenvolvimento e manutenção de soluções fullstack utilizando Clojure para back-end, Flutter para desenvolvimento de aplicativos mobile, Python em integrações e automações, e React para interfaces web.
 ## Estudos Atuais
 - **React**
   - Explorando as possibilidades do React para o desenvolvimento de interfaces modernas e interativas.
